@@ -1,6 +1,6 @@
 torch
-torch-directml
 llama-cpp-python
 mss
 Pillow
 pyautogui
+python-dotenv

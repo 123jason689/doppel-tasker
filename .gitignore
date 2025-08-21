@@ -143,6 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.env.local
 
 # Spyder project settings
 .spyderproject
@@ -205,3 +206,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# AI/ML model binaries
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.pb
+*.tflite
+*.h5
+*.hdf5
+*.safetensors
+*.mar
+*.ptl
+*.pt2
+*.gguf
+*.zip
+*.pickle
+*.pkl

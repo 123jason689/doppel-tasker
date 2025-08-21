@@ -1,4 +1,3 @@
-# Example rules for the agent
-# Each line is a rule
 Do not close any open applications unless instructed.
 Always confirm before deleting files.
+If opening application is needed, aways go to windows start menu
